@@ -113,7 +113,7 @@
 }
 
 .task-log-records {
-  background: black;
+  background: #404040;
   color: white;
   height: calc(100vh - 280px);
   overflow: auto;
